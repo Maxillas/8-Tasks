@@ -1,5 +1,10 @@
 def palindromeChecker(inputString):
     str = inputString
-    if (len(str) <= 1) or (len(str) == 2 and str[0] == str[-1]):
-        return True   
-    return (str[0] == str[-1]) and palindromeChecker(str[1:-1])
+
+    def foo(Inputindex):
+        if Inputindex > len(str) / 2 - 1:
+            return True
+        if inputString[Inputindex] == inputString[-Inputindex - 1]:
+            return True and foo(Inputindex + 1)
+        return False
+    return foo(0)

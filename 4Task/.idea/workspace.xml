@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289bfd52-9dab-49eb-a088-373c3de5728d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../3Task/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3Task/Task_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_4.py" afterDir="false" />
     </list>
@@ -31,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5Task" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.Task_4">
     <configuration name="1Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -154,6 +153,7 @@
       <workItem from="1712239593664" duration="55000" />
       <workItem from="1712240124132" duration="6802000" />
       <workItem from="1712582353622" duration="89000" />
+      <workItem from="1712596620058" duration="2505000" />
     </task>
     <servers />
   </component>
@@ -165,25 +165,25 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1712582441749" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1712582443014">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1712599083120">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1712582443014" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1712599083120" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1712247419855" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1712582443013">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1712599083120">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1712582443013" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1712599083120" />
     <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1712247419855" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1712582443013">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1712599083120">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1712582443013" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1712599083120" />
     <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1712247419855" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1712582443013">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1712599083120">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1712582443013" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1712599083120" />
     <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1712247419855" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1712247419855">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -217,7 +217,7 @@
     <SUITE FILE_PATH="coverage/4Task$Task_3.coverage" NAME="Task_3 Coverage Results" MODIFIED="1712582374805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1Task$1Task.coverage" NAME="1Task Coverage Results" MODIFIED="1712067708195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/3Task$Unittests_in_Task_1_tests_py.coverage" NAME="Unittests in Task_1_tests.py Coverage Results" MODIFIED="1712240972339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/4Task$Task_4.coverage" NAME="Task_4 Coverage Results" MODIFIED="1712582413333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4Task$Task_4.coverage" NAME="Task_4 Coverage Results" MODIFIED="1712599083114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1Task$Unittests_in_1Task.coverage" NAME="Unittests in 1Task Coverage Results" MODIFIED="1712067397888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1Task$Unittests_in_Task_1_tests_py.coverage" NAME="Unittests in Task_1_tests.py Coverage Results" MODIFIED="1712068608683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1Task$Unittests_in_1Task_tests_py.coverage" NAME="Unittests in 1Task_tests.py Coverage Results" MODIFIED="1712068140877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
