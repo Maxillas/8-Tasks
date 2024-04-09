@@ -1,7 +1,9 @@
 def printEvenIndex(inputList):
-    lst = inputList
-    if len(lst) != 0:
-        print(lst[0])
-        printEvenIndex(lst[2:])
-        return
-    return
+    def indexPrint(inputIndex):
+        if inputIndex > len(inputList) - 1:
+            return
+        if inputIndex % 2 == 0:
+            print(inputList[inputIndex])
+        inputIndex += 1
+        indexPrint(inputIndex)
+    indexPrint(0)

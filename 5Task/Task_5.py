@@ -1,8 +1,9 @@
 def printEvenNumber(inputList):
-    lst = inputList[:]
-    if len(lst) == 0:
-        return
-    digit = lst.pop(0)
-    if digit % 2 == 0:
-        print(digit)
-    printEvenNumber(lst)
+    def indexPrint(inputIndex):
+        if inputIndex > len(inputList) - 1:
+            return
+        if inputList[inputIndex] % 2 == 0:
+            print(inputList[inputIndex])
+        inputIndex += 1
+        indexPrint(inputIndex)
+    indexPrint(0)
