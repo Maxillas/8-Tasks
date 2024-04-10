@@ -6,7 +6,7 @@ def secondMaximum(inputList):
             return secondMax
         if inputList[index] >= firstMax:
             secondMax, firstMax = firstMax, inputList[index]
-        elif inputList[index] > secondMax:
+        elif inputList[index] >= secondMax:
             secondMax = inputList[index]
         index += 1
         return maximumSearch(index, firstMax, secondMax)
