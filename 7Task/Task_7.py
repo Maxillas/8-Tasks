@@ -10,4 +10,6 @@ def secondMaximum(inputList):
             secondMax = inputList[index]
         index += 1
         return maximumSearch(index, firstMax, secondMax)
+    if len(inputList) == 0:
+        return
     return maximumSearch(0, inputList[0], inputList[0])
